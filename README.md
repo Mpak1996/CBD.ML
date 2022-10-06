@@ -1,7 +1,7 @@
 # CBDA
 CyberBullying Detection Application (CBDA)
 
-![logo_CBDA](https://user-images.githubusercontent.com/51766689/194307716-16ea3b02-099b-4ffc-9e6d-d60c4f6b0a77.png)
+# ![logo_CBDA](https://user-images.githubusercontent.com/51766689/194307716-16ea3b02-099b-4ffc-9e6d-d60c4f6b0a77.png)
 
 ## Description
 
