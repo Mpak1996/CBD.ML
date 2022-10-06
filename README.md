@@ -1,6 +1,7 @@
 # CBDA
 CyberBullying Detection Application (CBDA)
 
+![](../../Downloads/logo_CBDA.png)
 ## Description
 
 CBDA is a NLP & Machine Learning application that detects CyberBullying behaviour in Social Media.
