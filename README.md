@@ -1,2 +1,2 @@
-# CBDA
-Cyber Bulling Detection Application (CBDA)
+# CBD.ML
+Cyber Bullying Detection ML Model (CBD.ML)
