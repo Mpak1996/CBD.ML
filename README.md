@@ -1,6 +1,12 @@
 # CBD.ML
 
+MSc Dissertation on Cyber Bullying Detection using Machine Learning, NLP and Python.
+
 ![LO](https://github.com/Mpak1996/CBD.ML/assets/51766689/75a711f3-df0c-4956-89f0-0d89b134004f)
+
+
+## [Cyberbullying Detection through NLP & Machine Learning-MSc Dissertation.pdf](https://github.com/Mpak1996/CBD.ML/files/13713027/Cyberbullying.Detection.through.NLP.Machine.Learning-MSc.Dissertation.pdf)
+![image](https://github.com/Mpak1996/CBD.ML/assets/51766689/008714bd-2612-45ba-90e8-914f35406a43)
 
 
 ## CBD ML Development
